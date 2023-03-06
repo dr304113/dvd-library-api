@@ -1,0 +1,11 @@
+entities\Appointment.class
+dao\AppointmentRepository.class
+com\hibernate\dvdlibrary\DvdlibraryApplication.class
+dao\DvdRepository.class
+entities\Customer.class
+entities\Dvd.class
+dao\DvdRepositoryImpl.class
+controller\DvdController.class
+dao\CustomerRepository.class
+dao\CustomerRepositoryImpl.class
+dao\AppointmentRepositoryImpl.class
