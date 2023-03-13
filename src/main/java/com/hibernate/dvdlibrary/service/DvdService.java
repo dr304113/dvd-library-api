@@ -27,7 +27,7 @@ public class DvdService {
 
     public String deleteDvdById(int id) {
         repository.deleteById(id);
-        return "Dvd removed || " + id;
+        return "Dvd removed || id: " + id;
     }
 
     public Dvd updateDvd(Dvd dvd) {
